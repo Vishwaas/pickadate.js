@@ -68,6 +68,8 @@
   height: 1em;
   box-sizing: content-box;
   top: -0.25em;
+  background: none;
+  border: none;
 }
 @media (min-width: 24.5em) {
   .picker__nav--prev,
